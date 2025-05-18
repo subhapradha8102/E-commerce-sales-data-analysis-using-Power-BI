@@ -27,6 +27,8 @@ The following questions are what this analysis seeks to answer:
 
 Tools: Power BI
 
+Output: https://github.com/subhapradha8102/E-commerce-sales-data-analysis-using-Power-BI/blob/main/Dashboard%20Screenshot.png
+
 
 
 
